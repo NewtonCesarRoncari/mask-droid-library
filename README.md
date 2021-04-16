@@ -18,6 +18,6 @@ allprojects {
 
 ```
 dependencies {
-	        implementation 'com.github.NewtonCesarRoncari:mask-droid-library:0.1.0'	
+	        implementation 'com.github.NewtonCesarRoncari:mask-droid-library:0.1.1'	
   }
 ```
